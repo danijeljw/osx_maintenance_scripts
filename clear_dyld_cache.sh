@@ -3,7 +3,7 @@
 # Name: clear_dyld_cache.sh
 # Description: Clear the dyld Cache
 # Script Maintainer: Danijel-James Wynyard
-#
+# License: MIT (c) Danijel-James Wynyard 2016
 # Last Updated: May 2, 2016
 ##################################################
 
